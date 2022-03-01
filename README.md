@@ -104,7 +104,7 @@
 
 ## 数据库设计
 
-![ER图](md-assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATXlsZXNZWVk=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center.png)
+![ER图](md-assets/er.png)
 
 
 **数据库: online\_edu，统一编码：utf8mb4**
@@ -561,17 +561,17 @@
 
 管理员端：
 
-![在这里插入图片描述](md-assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATXlsZXNZWVk=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-16460992031901.png)
+![admin](md-assets/admin.png)
 
 
 讲师端：
 
-![在这里插入图片描述](md-assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATXlsZXNZWVk=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-16460992031902.png)
+![teacher](md-assets/teacher.png)
 
 
 学员端：
 
-![在这里插入图片描述](md-assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBATXlsZXNZWVk=,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-16460992031903.png)
+![app](md-assets/app.png)
 
 
 ## 总结与展望
